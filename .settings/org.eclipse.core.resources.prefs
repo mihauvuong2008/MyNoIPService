@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/ngocdong/group/mynoipservice/config/ApplicationContextConfig.java=UTF-8
+encoding//src/main/java/ngocdong/group/mynoipservice/config/SpringWebAppInitializer.java=UTF-8
+encoding//src/main/java/ngocdong/group/mynoipservice/config/WebMvcConfig.java=UTF-8
+encoding//src/main/java/ngocdong/group/mynoipservice/config/WebSecurityConfig.java=UTF-8
+encoding//src/main/java/ngocdong/group/mynoipservice/model/UserInfo.java=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/loginPage.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/mainPage.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/userInfoPage.jsp=UTF-8
